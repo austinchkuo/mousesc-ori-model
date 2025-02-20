@@ -16,7 +16,7 @@ noiseStd = 0.01;
 gOSIThresh = 0;
 alphaExp = 0.00001;
 disableLabels = 1;
-customFile = "~/Documents/MATLAB/population-model/rfSimulations/anatSamples/plot-data.csv"; % specifies spatial locations of units matching Fig. 4 from Liang et al., 2023
+customFile = "~/Documents/MATLAB/mousesc-ori-model/figsNoGUI/matchUnitCoords.csv"; % specifies spatial locations of units matching Fig. 4 from Liang et al., 2023
 customStarts = [0.81 0.68]; % starting x and y values of the custom RF locations
 
 % specify data file
