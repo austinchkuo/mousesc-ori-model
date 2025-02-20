@@ -1,13 +1,17 @@
-# mousesc-pop-model
+# Mouse SC orientation selectivity model simulations
+
+Code associated with the study: Shared computational principles for mouse superior colliculus and primate population orientation selectivity
 
 ### Usage:
 
 Run each of the functions in the directory "figsNoGUI" to generate the population plots in the desired figure. \
-(e.g., run fig3_noGUI to generate the orientation preferences plots in Figure 3.)
+(e.g., running ```fig3_noGUI.m``` generates the orientation preference plots in Figure 3.)
 
-You can select different stimulus and receptive field parameters from the pre-generated set of neural responses by changing the loadfile specified in the comments of each figure script.
+You will need to download the pre-generated simulated neural responses from [OSF](https://osf.io/bu9cm/) and add the directory to your MATLAB path. \
+(note: code for generating data yourself will be uploaded at a later date)
 
-You will also need to download the pre-generated simulated neural responses from [OSF](https://osf.io/bu9cm/) and add the directory to your MATLAB path. \
-(note: code for generating data yourself to be uploaded at a later date)
+Select different stimulus and receptive field parameters from the pre-generated set of neural responses by changing the loadfile specified in the comments of each figure script.
 
-All code was tested to be compatible with Matlab 2023b and 2024a.
+All code was validated to work with MATLAB 2023b and 2024a.
+
+Please contact Austin Kuo (achkuo@stanford.edu) with any issues in running simulations.
