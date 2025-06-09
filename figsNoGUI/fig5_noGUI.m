@@ -21,7 +21,7 @@ alphaExp = 1.5;
 disableLabels = 1;
 
 % specify data file (different files: change stimulus parameters, same RF parameters per block)
-dirstring = "~/Documents/MATLAB/data/rfSimData/";
+dirstring = "~/Documents/MATLAB/rfSimData/fig5/";
 dataFile = "rfGaborSimData_24-12-11_1335.mat";
 
 %% data for figure 5 (expand comment blocks to view, collapse comment blocks to hide)

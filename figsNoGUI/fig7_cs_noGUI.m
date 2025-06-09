@@ -19,7 +19,7 @@ customFile = "~/Documents/MATLAB/mousesc-ori-model/figsNoGUI/matchUnitCoords.csv
 customStarts = [0.81 0.68]; % starting x and y values of the custom RF locations
 
 % specify data file
-dirstring = "~/Documents/MATLAB/data/rfSimData/";
+dirstring = "~/Documents/MATLAB/rfSimData/fig7_cs/";
 dataFile = "rfGaborSimData_25-02-07_1040.mat";
 % dataFile = "rfGaborSimData_25-02-07_1040.mat"; % 0.04 cpd, vertical edge
 % dataFile = "rfGaborSimData_25-02-07_1045.mat"; % 0.04 cpd, horizontal edge

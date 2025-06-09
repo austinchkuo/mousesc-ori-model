@@ -21,7 +21,7 @@ alphaExp = 1.5;
 disableLabels = 1;
 
 % specify data file (different files: change stimulus parameters, same RF parameters)
-dirstring = "~/Documents/MATLAB/data/rfSimData/";
+dirstring = "~/Documents/MATLAB/rfSimData/fig4/";
 dataFile = "rfGaborSimData_24-12-11_1327.mat";
 % data for figure 4
 % dataFile = "rfGaborSimData_24-12-11_1410.mat"; % 0.01 cpd, 30 deg radius circle

@@ -28,7 +28,7 @@ alphaExp = 0.00001;
 disableLabels = 1;
 
 % specify data file
-dirstring = "~/Documents/MATLAB/data/rfSimData/";
+dirstring = "~/Documents/MATLAB/rfSimData/fig6/";
 dataFile = "rfGaborSimData_25-01-22_1546.mat"; % 0.04 cpd, 30 deg radius circle
 loadFilename = strcat(dirstring,dataFile);
 fprintf("Loading data from: %s\n",loadFilename)
