@@ -7,8 +7,7 @@ Code associated with the study: Shared computational principles for mouse superi
 Run each of the functions in the directory "figsNoGUI" to generate the population plots in the desired figure. \
 (e.g., running ```fig3_noGUI.m``` generates the orientation preference plots in Figure 3.)
 
-You will need to download the pre-generated simulated neural responses from [OSF](https://osf.io/bu9cm/) and add the directory to your MATLAB path. \
-(note: code for generating data yourself will be uploaded at a later date)
+You will need to download the pre-generated simulated neural responses from [OSF](https://osf.io/bu9cm/) and add the directory to your MATLAB path.
 
 Select different stimulus and receptive field parameters from the pre-generated set of neural responses by changing the loadfile specified in the comments of each figure script.
 
