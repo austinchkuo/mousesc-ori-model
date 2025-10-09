@@ -1,4 +1,4 @@
-% fig6_noGUI.m
+% fig7_noGUI.m
 
 % (center-surround): use fig4_noGUI
 % RF parameters:
@@ -28,7 +28,7 @@ alphaExp = 0.00001;
 disableLabels = 1;
 
 % specify data file
-dirstring = "~/Documents/MATLAB/rfSimData/fig6/";
+dirstring = "~/Documents/MATLAB/rfSimData/fig7/";
 dataFile = "rfGaborSimData_25-01-22_1546.mat"; % 0.04 cpd, 30 deg radius circle
 loadFilename = strcat(dirstring,dataFile);
 fprintf("Loading data from: %s\n",loadFilename)

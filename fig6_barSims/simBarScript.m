@@ -1,6 +1,6 @@
 % simBarScript.m - script to simulate bar stimuli and calculate RF responses
 %                  can also apply anatomical transformation to RF responses
-%                  used to generate plots from Fig. 8 of Kuo et al., 2025
+%                  used to generate plots from Fig. 6 of Kuo et al., 2025
 % 
 % Usage - run the script with the appropriate parameters to generate plots from Fig. 8
 % 
