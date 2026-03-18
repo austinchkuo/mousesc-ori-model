@@ -2,7 +2,7 @@
 %                  can also apply anatomical transformation to RF responses
 %                  used to generate plots from Fig. 6 of Kuo et al., 2025
 % 
-% Usage - run the script with the appropriate parameters to generate plots from Fig. 8
+% Usage - run the script with the appropriate parameters to generate plots from Fig. 6
 % 
 % adjustable parameters: boundType - "edge", "corner", "box"
 %                            edge: draws a straight edge separating simulated "on-screen" region and "off-screen" region
